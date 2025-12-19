@@ -18,9 +18,6 @@ I conducted a benchmark downloading **20 High-Res Images** from a placeholder AP
 
 > **Note:** *Results may vary based on internet bandwidth and CPU architecture.*
 
-### 🎥 Visual Proof
-![Speed Comparison Graph](assets/graph.gif)
-*(Add your animated graph here! If you don't have a GIF yet, delete this line)*
 
 ---
 
